@@ -14,7 +14,7 @@ pip install matplotlib
 
 Run the script:
 
-python script_name.py
+python3 interface.py
 
 ## Usage
 
