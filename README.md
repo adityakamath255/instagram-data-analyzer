@@ -20,9 +20,3 @@ On Windows:
 
 On maxOS/Linux: 
 ```python3 interface.py```
-
-## Usage
-
-- Select the DM JSON files you want to analyze.
-- Select the 'following' and 'followers' JSON files to check unfollowers.
-- Visualize your message activity and find out who unfollowed you.
