@@ -8,6 +8,7 @@ Unfollower Check: Upload your 'following' and 'followers' JSON files to find out
 ## How to Run
 
 Clone this repo or download the script.
+
 Install dependencies (if you don’t have them already):
 
 pip install matplotlib
