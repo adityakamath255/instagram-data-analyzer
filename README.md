@@ -15,6 +15,10 @@ Install dependencies (if you don’t have them already):
 
 Run the script:
 
+On Windows:
+```python interface.py```
+
+On maxOS/Linux: 
 ```python3 interface.py```
 
 ## Usage
