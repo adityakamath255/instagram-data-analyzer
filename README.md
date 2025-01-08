@@ -18,5 +18,5 @@ Run the script:
 On Windows:
 ```python interface.py```
 
-On maxOS/Linux: 
+On macOS/Linux: 
 ```python3 interface.py```
